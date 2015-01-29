@@ -1,4 +1,4 @@
 lab4
 ====
 
-Lab 4: Programming with Javascript
+Lab 4 for IntroHCI Programming with Javascript
